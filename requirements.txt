@@ -1,6 +1,6 @@
 net-tools
-iptables
-openssh 
+openssh-server
+iptables-1.8.8
 sshpass 
 netcat-openbsd 
 corkscrew 
