@@ -1,3 +1,5 @@
+net-tools
+iptables
 openssh 
 sshpass 
 netcat-openbsd 
