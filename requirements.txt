@@ -1,0 +1,6 @@
+openssh 
+sshpass 
+netcat-openbsd 
+corkscrew 
+screen 
+python3
